@@ -6,6 +6,11 @@
 
 Heavily inspired by [stellar.js](http://markdalgleish.com/projects/stellar.js/).
 
+Author
+------
+[Brett Donohoo](https://github.com/brettdonohoo)
+
+
 Demos
 -----
 
